@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903098992010",
+    "project_id": "aurafest-3cc1e",
+    "storage_bucket": "aurafest-3cc1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903098992010:android:8d872fb013d78f1b7ff473",
+        "android_client_info": {
+          "package_name": "com.example.aurafest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCn7I44mtczvZLYdGivs89gBUIZsAwVI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
